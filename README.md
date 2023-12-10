@@ -1,7 +1,5 @@
 # 用浅层神经网络实现对MNIST数据集分类
 
-[toc]
-
 ## MNIST数据集的读取
 
 MNIST（Modified National Institute of Standards and Technology）手写数字数据集是一个经典的机器学习数据集，常用于测试和验证图像处理和机器学习算法的性能。该数据集由美国国家标准与技术研究院（NIST）于20世纪80年代收集而成，后经过修改而得名。
